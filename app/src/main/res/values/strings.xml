@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jokes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_Random_Info_fragment">Hello Random User fragment</string>
+    <string name="hello_Random_Pic_fragment">Hello Random Pic fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
